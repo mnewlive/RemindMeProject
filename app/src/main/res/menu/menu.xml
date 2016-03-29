@@ -5,6 +5,6 @@
     android:id="@+id/search"
     android:title="@string/search_title"
     android:orderInCategory="1"
-    android:icon="@drawable/magnify"
+    android:icon="@mipmap/ic_magnify"
     app:showAsAction="ifRoom"/>
 </menu>
